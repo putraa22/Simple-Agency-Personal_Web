@@ -25,7 +25,7 @@ const Navbar = () => {
           <Link href="/products/photography">PHOTOGRAPHY</Link>
         </li>
         <li className={styles.listItem}>
-          <Link href="/Contact">CONTACT</Link>
+          <Link href="/contact">CONTACT</Link>
         </li>
       </ul>
       <div className={styles.hamburger} onClick={() => setOpen(!open)}>

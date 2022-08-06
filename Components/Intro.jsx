@@ -16,7 +16,7 @@ const Intro = () => {
         <button className={styles.button}>DISCOVER</button>
       </div>
       <div className={styles.card}>
-        <Image src="/img/avocado.png" width="100%" height="100%" layout="fill" objectFit="cover" alt="intro" />
+        <Image src="/img/Avocado.png" width="100%" height="100%" layout="fill" objectFit="cover" alt="intro" />
       </div>
     </div>
   );
